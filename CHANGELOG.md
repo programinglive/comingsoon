@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.7](https://github.com/programinglive/comingsoon/compare/v1.0.6...v1.0.7) (2025-12-05)
+
+
+### 🧹 Chores
+
+* update npm package homepage URL to https://comingsoon.programinglive.com ([84f8249](https://github.com/programinglive/comingsoon/commit/84f82495d38e0584c8906cc6420f4ea1bd6708e4))
+
 ### [1.0.6](https://github.com/programinglive/comingsoon/compare/v1.0.5...v1.0.6) (2025-12-05)
 
 
