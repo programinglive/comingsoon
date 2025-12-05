@@ -2,6 +2,8 @@
 
 A sleek, terminal-inspired "Coming Soon" page with programmer vibes. Features matrix rain effects, typing animations, and a modern dark theme perfect for tech projects.
 
+**🌐 [Live Demo](https://comingsoon.programinglive.com)** | **📦 [NPM Package](https://www.npmjs.com/package/@programinglive/comingsoon)** | **💻 [GitHub](https://github.com/programinglive/comingsoon)**
+
 ## 📦 NPM Installation
 
 Install the package globally or use npx:
