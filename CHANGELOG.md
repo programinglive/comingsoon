@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.6](https://github.com/programinglive/comingsoon/compare/v1.0.5...v1.0.6) (2025-12-05)
+
+
+### ✨ Features
+
+* add version display to website footer ([8b70500](https://github.com/programinglive/comingsoon/commit/8b7050085616253bc9b83294c25f145f688b69ea))
+
 ### [1.0.5](https://github.com/programinglive/comingsoon/compare/v1.0.4...v1.0.5) (2025-12-05)
 
 ### [1.0.4](https://github.com/programinglive/comingsoon/compare/v1.0.3...v1.0.4) (2025-12-05)
