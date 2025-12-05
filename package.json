@@ -1,6 +1,6 @@
 {
   "name": "comingsoon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A sleek, terminal-inspired \"Coming Soon\" page with programmer vibes. Features matrix rain effects, typing animations, and a modern dark theme perfect for tech projects.",
   "main": "script.js",
   "scripts": {
